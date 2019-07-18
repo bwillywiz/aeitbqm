@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal">
     <sp_portal action="INSERT_OR_UPDATE">
-        <css_variables/>
+        <css_variables>$brand-primary:#bdc0c4;&#13;
+$body-bg:#fff;&#13;
+$state-success-text:#5cb85c;&#13;
+$sp-homepage-bg:#fff;&#13;
+$sp-navbar-divider-color:#455464;&#13;
+$text-color:#717171;&#13;
+$sp-logo-margin-y:.5rem;&#13;
+$navbar-inverse-link-hover-color:#ffffff;&#13;
+$panel-bg:#fff;&#13;
+$brand-success:#0a5d0c;&#13;
+$navbar-inverse-bg:#485563;&#13;
+$brand-warning:#9E6817;&#13;
+$brand-danger:#B12F2C;&#13;
+$sp-tagline-color:#717171;&#13;
+$navbar-inverse-link-color:#bdc0c4;&#13;
+$brand-info:#0F7D8B;&#13;
+$link-color:#045AAE;&#13;
+$sp-logo-margin-x:15px;&#13;
+$btn-default-bg:#fff;&#13;
+$text-muted:#646567;</css_variables>
         <default>false</default>
         <homepage display_value="ae_it_bqm_portal">cf3053f9dbe6ff0018159c29db961982</homepage>
         <icon/>
@@ -14,14 +33,14 @@
         <sc_catalog_page/>
         <sc_category_page/>
         <sp_chat_queue/>
-        <sp_rectangle_menu/>
+        <sp_rectangle_menu display_value="AE IT BQM Menu">589d9a10db7ab7404a1192a6db961942</sp_rectangle_menu>
         <sqanda_knowledge_base/>
         <sys_class_name>sp_portal</sys_class_name>
         <sys_created_by>williamsbr.local</sys_created_by>
         <sys_created_on>2019-07-18 13:27:29</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>d4e892d8db3ab7404a1192a6db9619a8</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>AE IT BQM</sys_name>
         <sys_package display_value="AE IT Business Quality Management" source="x_aue_ae_it_bqm">29b65a18db3ab7404a1192a6db96194c</sys_package>
         <sys_policy/>
@@ -29,8 +48,8 @@
         <sys_scope display_value="AE IT Business Quality Management">29b65a18db3ab7404a1192a6db96194c</sys_scope>
         <sys_update_name>sp_portal_d4e892d8db3ab7404a1192a6db9619a8</sys_update_name>
         <sys_updated_by>williamsbr.local</sys_updated_by>
-        <sys_updated_on>2019-07-18 13:27:29</sys_updated_on>
-        <theme/>
+        <sys_updated_on>2019-07-18 14:01:47</sys_updated_on>
+        <theme display_value="Stock - High Contrast">f84873986711320023c82e08f585ef6a</theme>
         <title>AE IT BQM</title>
         <url_suffix>aeitbqmsp</url_suffix>
     </sp_portal>
