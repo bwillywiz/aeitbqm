@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="INSERT_OR_UPDATE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name>homepage-quicklinks</class_name>
+        <container_class_name/>
+        <name>BQM CSR Form - Container 2</name>
+        <order>2</order>
+        <sp_page display_value="bqm_csr_form_landing">ade1bf50dbfeb7404a1192a6db9619e0</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>williamsbr.local</sys_created_by>
+        <sys_created_on>2019-07-18 19:55:20</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>e1e1ff50dbfeb7404a1192a6db961938</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>BQM CSR Form - Container 2</sys_name>
+        <sys_package display_value="AE IT Business Quality Management" source="x_aue_ae_it_bqm">29b65a18db3ab7404a1192a6db96194c</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="AE IT Business Quality Management">29b65a18db3ab7404a1192a6db96194c</sys_scope>
+        <sys_update_name>sp_container_e1e1ff50dbfeb7404a1192a6db961938</sys_update_name>
+        <sys_updated_by>williamsbr.local</sys_updated_by>
+        <sys_updated_on>2019-07-18 19:56:35</sys_updated_on>
+        <title>Quick Links</title>
+        <width>container</width>
+    </sp_container>
+</record_update>

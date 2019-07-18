@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Allow BQM users to access DIR Contractor Staffing Request Form</description>
+        <elevated_privilege>false</elevated_privilege>
+        <encryption_context/>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_aue_ae_it_bqm.cs_user_access</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>cs_user_access</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>williamsbr.local</sys_created_by>
+        <sys_created_on>2019-07-18 19:40:21</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>394ee71cdbbeb7404a1192a6db961964</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_aue_ae_it_bqm.cs_user_access</sys_name>
+        <sys_package display_value="AE IT Business Quality Management" source="x_aue_ae_it_bqm">29b65a18db3ab7404a1192a6db96194c</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="AE IT Business Quality Management">29b65a18db3ab7404a1192a6db96194c</sys_scope>
+        <sys_update_name>sys_user_role_394ee71cdbbeb7404a1192a6db961964</sys_update_name>
+        <sys_updated_by>williamsbr.local</sys_updated_by>
+        <sys_updated_on>2019-07-18 19:40:21</sys_updated_on>
+    </sys_user_role>
+</record_update>

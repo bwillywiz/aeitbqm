@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2019-07-18 21:06:10">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout display_value="layout_2_across">f6defafa0a0a0b12000d5016bd12ff06</layout>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>williamsbr.local</sys_created_by>
+        <sys_created_on>2019-07-18 17:57:03</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>f8d61310db7eb7404a1192a6db96193a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>catalog_bqm</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="AE IT Business Quality Management" source="x_aue_ae_it_bqm">29b65a18db3ab7404a1192a6db96194c</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="AE IT Business Quality Management">29b65a18db3ab7404a1192a6db96194c</sys_scope>
+        <sys_update_name>sys_portal_page_f8d61310db7eb7404a1192a6db96193a</sys_update_name>
+        <sys_updated_by>williamsbr.local</sys_updated_by>
+        <sys_updated_on>2019-07-18 17:57:03</sys_updated_on>
+        <title>catalog_bqm</title>
+        <user/>
+        <view>catalog_bqm</view>
+    </sys_portal_page>
+</record_update>

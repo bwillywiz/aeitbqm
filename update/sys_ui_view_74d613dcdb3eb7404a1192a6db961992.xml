@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>catalog_bqm</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>williamsbr.local</sys_created_by>
+        <sys_created_on>2019-07-18 17:57:02</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>74d613dcdb3eb7404a1192a6db961992</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>BQM View</sys_name>
+        <sys_package display_value="AE IT Business Quality Management" source="x_aue_ae_it_bqm">29b65a18db3ab7404a1192a6db96194c</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="AE IT Business Quality Management">29b65a18db3ab7404a1192a6db96194c</sys_scope>
+        <sys_update_name>sys_ui_view_74d613dcdb3eb7404a1192a6db961992</sys_update_name>
+        <sys_updated_by>williamsbr.local</sys_updated_by>
+        <sys_updated_on>2019-07-18 17:57:02</sys_updated_on>
+        <title>BQM View</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

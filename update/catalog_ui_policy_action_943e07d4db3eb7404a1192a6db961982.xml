@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item/>
+        <catalog_variable>IO:c045200f2ba63100ee0219b5a8da15c6</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>williamsbr.local</sys_created_by>
+        <sys_created_on>2019-07-18 17:19:20</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>943e07d4db3eb7404a1192a6db961982</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>extended_price</sys_name>
+        <sys_package display_value="AE IT Business Quality Management" source="x_aue_ae_it_bqm">29b65a18db3ab7404a1192a6db96194c</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="AE IT Business Quality Management">29b65a18db3ab7404a1192a6db96194c</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_943e07d4db3eb7404a1192a6db961982</sys_update_name>
+        <sys_updated_by>williamsbr.local</sys_updated_by>
+        <sys_updated_on>2019-07-18 17:19:20</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Make exteded price read-only - BQM DIR CSR">103e07d4db3eb7404a1192a6db96197f</ui_policy>
+        <variable>extended_price</variable>
+        <variable_set/>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+</record_update>
